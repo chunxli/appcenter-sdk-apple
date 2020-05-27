@@ -2,6 +2,10 @@
 
 ## Version 3.2.1 (Under development)
 
+### App Center
+
+* **[Fix]** When carrier name retrieved incorrectly by apple, show nil as expected instead "carrier" string.
+
 ___
 
 ## Version 3.2.0
